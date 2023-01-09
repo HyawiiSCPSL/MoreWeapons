@@ -10,6 +10,7 @@
         Scp1499,
         MedkitGun,
         VaccinePistol,
+        InstantKillPistol,
 
         //Coming maybe in the Future :D
         //MolotovCocktail,
